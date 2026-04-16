@@ -16,7 +16,7 @@ Front framework: custom
 
 ## Projet 3 —  Théâtre émergent
 Contexte: Projet IESA, travail en binome
-Brief: Création d'un site pour répertorier et communiquer sur les pièces de théâtre sur Paris.
+Brief: Création d'un site en utilisant un CMS wordpress pour répertorier et communiquer sur les pièces de théâtre sur Paris.
 Outils: Photoshop, Axure
 Langage: HTML, CSS
 Front framework: custom
